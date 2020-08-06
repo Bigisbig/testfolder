@@ -1,0 +1,4 @@
+Name: Schneider Trump
+Region: Munich
+Occupation: Farmer
+Address: Gründwalderstr. 114
