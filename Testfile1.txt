@@ -1,4 +1,4 @@
 Name: Schneider Trump
 Region: Munich, Bayern
 Occupation: Farmer
-Address: Gründwalderstr. 7878
+Address: Gründwalderstr. 7870
